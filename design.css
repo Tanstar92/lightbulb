@@ -1,0 +1,13 @@
+.text{
+    color: aqua;
+    font-size: xx-large;
+    text-decoration: line-through;
+}
+.new{
+    color: red;
+    font-size: xx-small;
+    text-decoration: none;
+}
+.another{
+    background-color: darkgray;
+}
